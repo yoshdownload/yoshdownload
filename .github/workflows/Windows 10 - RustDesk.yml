@@ -1,4 +1,4 @@
-name: Windows - RustDesk
+name: yoshdownload
 
 on:
   workflow_dispatch:
